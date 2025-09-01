@@ -4,7 +4,7 @@
 ## integrante
 - **Steban Felipe Morera Busaquillo** 
 -  **Juan Sebastián Jiménez Giraldo**
--  **David Sebastian Prieto**
+-  **David Sebastian Prieto Osma**
 ## Información del curso y fecha
 -  curso: **pensamiento algoritmito**
 - fecha:**01/09/2025** 
