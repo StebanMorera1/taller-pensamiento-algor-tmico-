@@ -77,30 +77,3 @@ Para compilar y ejecutar los programas, es necesario tener instalado un compilad
 
  Repite el proceso cambiando el nombre del archivo según el punto que desees ejecutar.
 
-docs/
-
-[1.1 calculadora.pdf](https://github.com/user-attachments/files/22070620/1.1.calculadora.pdf)
-
-[validacion fecha.pdf](https://github.com/user-attachments/files/22070630/validacion.fecha.pdf)
-
-[sistemas descuentos.pdf](https://github.com/user-attachments/files/22070632/sistemas.descuentos.pdf)
-
-[cajero automatico.pdf](https://github.com/user-attachments/files/22070633/cajero.automatico.pdf)
-
-[horoscopo.pdf](https://github.com/user-attachments/files/22070635/horoscopo.pdf)
-
-[validacion hora.pdf](https://github.com/user-attachments/files/22070636/validacion.hora.pdf)
-src/
-
-[calculadora.cpp](https://github.com/user-attachments/files/22070638/calculadora.cpp)
-
-[validacion_fecha.cpp](https://github.com/user-attachments/files/22070640/validacion_fecha.cpp)
-
-[sistema_descuentos.cpp](https://github.com/user-attachments/files/22070644/sistema_descuentos.cpp)
-
-[cajero_automatico.cpp](https://github.com/user-attachments/files/22070645/cajero_automatico.cpp)
-
-[horoscopo.cpp](https://github.com/user-attachments/files/22070646/horoscopo.cpp)
-
-[validacion_hora.cpp](https://github.com/user-attachments/files/22070651/validacion_hora.cpp)
-
